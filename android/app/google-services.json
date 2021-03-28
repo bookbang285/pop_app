@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241334058606",
+    "project_id": "suphawaree-3ee29",
+    "storage_bucket": "suphawaree-3ee29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241334058606:android:6a9bde4ab75c05462d707f",
+        "android_client_info": {
+          "package_name": "com.poppiku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241334058606-egdg55np928rgq39on44j4vnao1veo5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKFbX4EhV2KEAr1gRvZR1ovOoKR45YgCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241334058606-egdg55np928rgq39on44j4vnao1veo5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

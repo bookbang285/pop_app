@@ -81,7 +81,7 @@ class _MyAppState extends State<MyApp> {
 
   Widget iM = Container(
     child: Image.asset(
-      '/eiei.jpeg',
+      'assets/eiei.jpeg',
       width: 500,
       height: 400,
       fit: BoxFit.cover,
